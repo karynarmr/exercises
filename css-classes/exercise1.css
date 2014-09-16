@@ -1,0 +1,19 @@
+.header {
+border: solid blue 1px;
+}
+
+.sidebar {
+width: 20%;
+border: solid blue 1px;
+display: block;
+}
+
+.content {
+width: 80%;
+border: solid blue 1px;
+display: inline-block;
+}
+
+.footer {
+border: solid blue 1px;
+}
