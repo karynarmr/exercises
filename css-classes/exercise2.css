@@ -1,0 +1,48 @@
+.header {
+border: solid blue 1px;
+background-color: #FF6633; 
+height: 100px;
+}
+
+.logo {
+border: solid blue 1px;
+display: inline-block;
+padding: 10px;
+margin-top: 20px;
+height: 35px;
+width: 20%;
+background-color: pink;
+margin-left: 10px;
+}
+
+.navigation {
+border: solid blue 1px;
+display: inline-block;
+padding: 10px;
+margin-top: 20px;
+height: 35px;
+width: 60%;
+background-color: red;
+}
+
+.sidebar {
+border: solid blue 1px;
+display: inline-block;
+width: 20%;
+height: 200px;
+background-color: #FF9966;
+}
+
+.content {
+border: solid blue 1px;
+display: inline-block;
+width: 1200px;	
+height: 200px;
+background-color: blue;
+}
+
+.footer {
+border: solid blue 1px;
+background-color: #99CC33; 
+height: 50px;
+}
