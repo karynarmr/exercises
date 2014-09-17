@@ -1,19 +1,27 @@
 .header {
 border: solid blue 1px;
+background-color: #FF6633; 
+height: 50px;
 }
 
 .sidebar {
-width: 20%;
 border: solid blue 1px;
-display: block;
+display: inline-block;
+width: 20%;
+height: 200px;
+background-color: #FF9966;
 }
 
 .content {
-width: 80%;
 border: solid blue 1px;
 display: inline-block;
+width: 1200px;	
+height: 200px;
+background-color: blue;
 }
 
 .footer {
 border: solid blue 1px;
+background-color: #99CC33; 
+height: 50px;
 }
