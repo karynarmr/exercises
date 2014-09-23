@@ -1,0 +1,60 @@
+.header {
+border: solid blue 1px;
+background-color: #FF6633; 
+height: 50px;
+}
+
+.wrapper {
+background-color: #AAAAAA;
+}
+
+.widget {
+border: solid blue 1px;
+background-color: #FF4136;
+display: inline-block;
+height: 100px;
+width: 100px;
+margin: 20px;
+}
+
+.sub-widget {
+background-color: white;
+height: 20px;
+width: 75px;
+margin: 10px;
+}
+
+.widget-blue {
+border: solid blue 1px;
+background-color: blue;
+display: inline-block;
+height: 100px;
+width: 100px;
+margin: 20px;
+}
+
+.gadget {
+border: solid blue 1px;
+background-color: #F012BE;
+display: inline-block;
+height: 100px;
+width: 100px;
+margin: 20px;
+border-radius: 25px;
+}
+
+.gadget-blue {
+border: solid blue 1px;
+background-color: blue;
+display: inline-block;
+height: 100px;
+width: 100px;
+margin: 20px;
+border-radius: 25px;
+}
+
+.footer {
+border: solid blue 1px;
+background-color: #99CC33; 
+height: 50px;
+}
